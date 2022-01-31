@@ -5,12 +5,14 @@
   "main": "app.js",
   "scripts": {
     "start": "node app",
+    "execute": "node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.0.0",
     "moment": "^2.29.1"
   }
 }
