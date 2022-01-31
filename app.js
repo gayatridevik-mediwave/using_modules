@@ -7,3 +7,4 @@ console.log(future.format("DD/MM/YYYY"));
 
 console.log("hi");
 console.log(date);
+console.log(date);
